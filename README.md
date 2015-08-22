@@ -12,7 +12,10 @@ There are 3 possible players which can be run with this program.
 
 #Usage:
 Call program using Referee.class file
-Input arguments: Board size, Player 1, Player 2
+
+Input arguments: 
+
+Board size, Player 1, Player 2
 
 #Example Usage:
 
